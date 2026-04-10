@@ -27,3 +27,5 @@ num | nome | nota
 ---|---|---
 1| gabriel | 10.0
 2|henrique| 9.4
+---
+estou no momento aprendendo o comando de c 'for(inti=0;i>10;i++)'
