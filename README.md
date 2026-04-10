@@ -12,10 +12,10 @@ isso foi feito com pedra e uns bagulho
 - [x] acordar cedo
 - [x] trabalhar
 - [ ] estudar
-* fazer lista de alg
-* fazer os trabalhos de fac
+ * fazer lista de alg
+ * fazer os trabalhos de fac
 - [ ] malhar
-* superior
-* abdominal
-* corrida 5km
+ * superior
+ * abdominal
+ * corrida 5km
 - [ ] aniversario mãe
