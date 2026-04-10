@@ -9,6 +9,7 @@ isso foi feito com pedra e uns bagulho
 *italico* 
 
 **lista de tarefas hoje 10/04/2026**
+***
 - [x] acordar cedo
 - [x] trabalhar
 - [ ] estudar
@@ -19,9 +20,9 @@ isso foi feito com pedra e uns bagulho
  * abdominal
  * corrida 5km
 - [ ] aniversario mãe
-
-
+***
 [teste link do yt](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-
-
+***
 num | nome | nota
+---|---|---
+1| gabriel | 10.0
