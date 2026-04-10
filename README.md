@@ -8,7 +8,7 @@ adicionei direto do github ebaa
 isso foi feito com pedra e uns bagulho
 *italico* 
 
-**lista de tarefas hoje 10/04/2026**
+** # lista de tarefas hoje 10/04/2026**
 ***
 - [x] acordar cedo
 - [x] trabalhar
@@ -32,5 +32,5 @@ estou no momento aprendendo o comando de c `for(int i=0;i>10;i++)` em c
 ---
 olha meu programa em c 
 ``` 
-printf("hello world);
+printf("hello world");
 ```
