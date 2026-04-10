@@ -8,7 +8,7 @@ adicionei direto do github ebaa
 isso foi feito com pedra e uns bagulho
 *italico* 
 
- # ** lista de tarefas hoje 10/04/2026**
+ # _lista de tarefas hoje 10/04/2026_
 ***
 - [x] acordar cedo
 - [x] trabalhar
