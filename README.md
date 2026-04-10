@@ -9,11 +9,13 @@ isso foi feito com pedra e uns bagulho
 *italico* 
 
 **lista de tarefas hoje 10/04/2026**
-- [ ] acordar cedo
-- [ ] trabalhar
+- [x] acordar cedo
+- [x] trabalhar
 - [ ] estudar
+* fazer lista de alg
+* fazer os trabalhos de fac
 - [ ] malhar
-*superior
-*abdominal
-*corrida 5km
+* superior
+* abdominal
+* corrida 5km
 - [ ] aniversario mãe
