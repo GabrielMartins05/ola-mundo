@@ -36,7 +36,4 @@ olha meu programa em c
 printf("hello world");
 ```
 ---
-como **Kanye West** ja dizia:
->swoppede de dop
-> swop de wop
->skopo wob de bob
+ 
