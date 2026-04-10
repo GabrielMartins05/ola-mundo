@@ -26,3 +26,5 @@ isso foi feito com pedra e uns bagulho
 num | nome | nota
 ---|---|---
 1| gabriel | 10.0
+---|---|---
+2|henrique| 9.4
