@@ -22,3 +22,6 @@ isso foi feito com pedra e uns bagulho
 
 
 [teste link do yt](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
+
+num | nome | nota
