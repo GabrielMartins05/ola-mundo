@@ -13,13 +13,11 @@ isso foi feito com pedra e uns bagulho
 - [x] acordar cedo
 - [x] trabalhar
 - [ ] estudar
- * fazer lista de alg
- * fazer os trabalhos de fac
-- [ ] malhar
- * superior
- * abdominal
- * corrida 5km
-- [ ] aniversario mãe
+ * fazer trabalhode rsd
+ * fazer atividade 3 de fac
+- [ ] malharver telefone vini
+ 
+- [ ] mengas
 ***
 [teste link do yt](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 ***
