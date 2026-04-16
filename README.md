@@ -18,7 +18,7 @@ ser humano é mto foda p conseguir tirar isso de pedra e graveto slc
 - [ ] mengas
 - [ ] ver as thumbnail
 ***
-[teste link do yt]( https://www.youtube.com/channel/UCgMxQ5VGZYvHLsGjY7VM6hA)
+[canal do yt]( https://www.youtube.com/channel/UCgMxQ5VGZYvHLsGjY7VM6hA)
 ***
 num | nome | nota
 ---|---|---
