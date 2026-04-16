@@ -4,22 +4,21 @@ primeiro repositorio versionado git e github eba
 criado no dia 09/04/2026
 
 adicionei direto do github ebaa
-
-isso foi feito com pedra e uns bagulho
+ser humano é mto foda p conseguir tirar isso de pedra e graveto slc
 *italico* 
 
- # _lista de tarefas hoje 10/04/2026_
+ # _lista de tarefas hoje 16/04/2026_
 ***
 - [x] acordar cedo
 - [x] trabalhar
 - [ ] estudar
  * fazer trabalhode rsd
  * fazer atividade 3 de fac
-- [ ] malharver telefone vini
- 
+- [ ] ver telefone vini
 - [ ] mengas
+- [ ] ver as thumbnail
 ***
-[teste link do yt](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+[teste link do yt]( https://www.youtube.com/channel/UCgMxQ5VGZYvHLsGjY7VM6hA)
 ***
 num | nome | nota
 ---|---|---
