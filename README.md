@@ -12,7 +12,7 @@ ser humano é mto foda p conseguir tirar isso de pedra e graveto slc
 - [x] acordar cedo
 - [x] trabalhar
 - [ ] estudar
- * fazer trabalhode rsd
+ * fazer trabalho de rsd
  * fazer atividade 3 de fac
 - [ ] ver telefone vini
 - [ ] mengas
